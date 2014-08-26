@@ -19,10 +19,10 @@
 define('DB_NAME', 'opswork_database');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'opswork');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'rootpassword');
+define('DB_PASSWORD', 'prLTz3f5eFpVWcPX');
 
 /** MySQL hostname */
 define('DB_HOST', 'test-opsworks-dbinstance.cheernzndnk1.us-west-2.rds.amazonaws.com');
