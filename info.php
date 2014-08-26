@@ -1,5 +1,0 @@
-<? phpinfo(); 
-
-google google everywhere
-
-?>
